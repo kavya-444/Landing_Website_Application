@@ -1,1 +1,1 @@
-Responsive Blog Platform
+Gym Landing Website
