@@ -1,1 +1,1 @@
-# Landing_Website_Application
+Responsive Blog Platform
